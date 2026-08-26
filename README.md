@@ -15,11 +15,12 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando Engenharia de Software (Ibmec) — formada em Técnico de Informática
+- 💻 Cursando Engenharia de Software (Ibmec)
+- 🎓 Formada em Técnico de Informática
 - 👩‍🏫 Monitora de Desenvolvimento Web no Ibmec
-- 🎨 Curto unir código com UI/UX, uso bastante Figma e Framer
+- 🏆 Embaixadora Estudantil do Google
 - 📱 Compartilho o que aprendo em programação no [@devbyeduarda](https://www.instagram.com/devbyeduarda)
-- 🌱 Sempre construindo alguma coisa nova por aqui
+- 🌱 Sempre construindo e compartilhando alguma coisa nova por aqui
 
 ---
 
